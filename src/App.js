@@ -9,13 +9,21 @@ function App() {
       <Weather />
       <p>
         This project was coded by Vanessa Teixeira and is open-sourced on {""}
-        <a href="/" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/vanessateixeira92/react-github-netlify"
+          target="_blank"
+          rel="noreferrer"
+        >
           GitHub
         </a>{" "}
         {""}
         and hosted on{" "}
-        <a href="/" target="_blank" rel="noreferrer">
-          Netlify{" "}
+        <a
+          href="https://react-github-netlify-project.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Netlify
         </a>
       </p>
     </div>
